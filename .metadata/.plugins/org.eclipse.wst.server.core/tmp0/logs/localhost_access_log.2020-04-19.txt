@@ -1,0 +1,7 @@
+127.0.0.1 - - [19/Apr/2020:13:27:43 +0300] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [19/Apr/2020:13:27:44 +0300] "GET /Asiakkaat/listaaasiakkaat.jsp HTTP/1.1" 200 1596
+0:0:0:0:0:0:0:1 - - [19/Apr/2020:13:27:44 +0300] "GET /Asiakkaat/css/main.css HTTP/1.1" 200 495
+0:0:0:0:0:0:0:1 - - [19/Apr/2020:13:27:44 +0300] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [19/Apr/2020:13:27:45 +0300] "GET /Asiakkaat/asiakkaat/ HTTP/1.1" 200 334
+0:0:0:0:0:0:0:1 - - [19/Apr/2020:13:28:58 +0300] "GET /Asiakkaat/listaaasiakkaat.jsp HTTP/1.1" 200 1593
+0:0:0:0:0:0:0:1 - - [19/Apr/2020:13:28:58 +0300] "GET /Asiakkaat/asiakkaat/ HTTP/1.1" 200 334
